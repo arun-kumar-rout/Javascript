@@ -1,2 +1,2 @@
 # Javascript
-Complete Javascript
+Complete Javascript course
